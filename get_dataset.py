@@ -4,6 +4,7 @@
 import cv2
 import imutils
 import numpy as np
+import matplotlib as plt
 from time import time
 
 initTime = time()
